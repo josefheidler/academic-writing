@@ -1,0 +1,14 @@
+{
+  "name": "academic-writing",
+  "displayName": "Academic writing",
+  "version": "0.1.0",
+  "description": "Refine an article one beat at a time, and check its prose against a style guide for academic writing.",
+  "author": {
+    "name": "Josef Heidler",
+    "url": "https://github.com/josefheidler"
+  },
+  "homepage": "https://github.com/josefheidler/academic-writing",
+  "repository": "https://github.com/josefheidler/academic-writing",
+  "license": "MIT",
+  "keywords": ["academic-writing", "research", "journal-article", "style-guide", "apa", "refinement"]
+}

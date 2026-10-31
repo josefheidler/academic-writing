@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "academic-writing",
+  "description": "Skills for writing original-research journal articles with Claude.",
+  "owner": {
+    "name": "Josef Heidler",
+    "url": "https://github.com/josefheidler"
+  },
+  "plugins": [
+    {
+      "name": "academic-writing",
+      "source": "./plugins/academic-writing",
+      "description": "Refine an article one beat at a time, and check its prose against a style guide for academic writing.",
+      "category": "productivity",
+      "tags": ["academic-writing", "research", "journal-article", "style-guide", "apa"]
+    }
+  ]
+}
